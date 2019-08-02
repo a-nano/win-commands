@@ -11,6 +11,7 @@
 							set-command
 							(string name)))
 				       :output s
+				       :external-format :sjis
 				       :ignore-error-status t)))
 	 (command (subseq commands 0 (position #\return commands))))
     (when (not (string= command ""))

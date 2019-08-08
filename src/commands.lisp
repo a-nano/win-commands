@@ -38,5 +38,7 @@
 		(export (define-command for))
 		(export (define-command forfiles))
 		(export (define-command wformat :set-command "format"))
+		(export (define-command goto))
+		(export (define-command hostname))
 		)))
   (command))

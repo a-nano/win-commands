@@ -40,5 +40,7 @@
 		(export (define-command wformat :set-command "format"))
 		(export (define-command goto))
 		(export (define-command hostname))
+		(export (define-command icacls))
+		(export (define-command wif) :set-command "if")
 		)))
   (command))

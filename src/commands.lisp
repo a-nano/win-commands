@@ -42,5 +42,8 @@
 		(export (define-command hostname))
 		(export (define-command icacls))
 		(export (define-command wif) :set-command "if")
+		(export (define-command label))
+		(export (define-command lh))
+		(export (define-command loadhigh))
 		)))
   (command))

@@ -87,5 +87,8 @@
 		(export (define-command tree))
 		(export (define-command wtype :set-command "type"))
 		(export (define-command tzutil))
+		(exoprt (define-command ver))
+		(export (define-command verify))
+		(export (define-command vol))
 		)))
   (command))

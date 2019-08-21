@@ -90,5 +90,7 @@
 		(exoprt (define-command ver))
 		(export (define-command verify))
 		(export (define-command vol))
+		(export (define-command where))
+		(export (define-comamnd whoami))
 		)))
   (command))

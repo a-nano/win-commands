@@ -92,5 +92,5 @@
 		(export (define-command vol))
 		(export (define-command where))
 		(export (define-comamnd whoami))
-		)))
+		(export (define-command xcopy))))
   (command))

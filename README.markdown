@@ -56,6 +56,18 @@ Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
 ```
 
 ## Installation
+1. Clone to your local-projects.
+```common-lisp
+cd $HOME/quicklisp/local-projects
+git clone https://github.com/a-nano/win-commands.git
+```
+
+2. Start your lisp. Then, just:
+```common-lisp
+(ql:quickload :win-commands)
+
+## ToDo
+Improved reading speed.
 
 ## Author
 

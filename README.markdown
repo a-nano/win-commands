@@ -65,6 +65,7 @@ git clone https://github.com/a-nano/win-commands.git
 2. Start your lisp. Then, just:
 ```common-lisp
 (ql:quickload :win-commands)
+```
 
 ## ToDo
 Improved reading speed.
